@@ -1,9 +1,9 @@
-git clone <repository>
-setup python version to run 3.9.0
-setup django version =4.2
-conda create -n envename python==3.9.0
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
+git clone <repository> <br>
+setup python version to run 3.9.0 <br>
+setup django version =4.2 <br>
+conda create -n envename python==3.9.0  <br>
+pip install -r requirements.txt   <br>
+python manage.py makemigrations   <br>
+python manage.py migrate  <br>
 python manage.py runserver 8000
 
